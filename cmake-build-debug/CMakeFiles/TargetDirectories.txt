@@ -1,0 +1,8 @@
+/home/nick-h/CLionProjects/OOP/cmake-build-debug/CMakeFiles/edit_cache.dir
+/home/nick-h/CLionProjects/OOP/cmake-build-debug/CMakeFiles/rebuild_cache.dir
+/home/nick-h/CLionProjects/OOP/cmake-build-debug/Lab1/CMakeFiles/Lab1.dir
+/home/nick-h/CLionProjects/OOP/cmake-build-debug/Lab1/CMakeFiles/edit_cache.dir
+/home/nick-h/CLionProjects/OOP/cmake-build-debug/Lab1/CMakeFiles/rebuild_cache.dir
+/home/nick-h/CLionProjects/OOP/cmake-build-debug/Lab2/CMakeFiles/Lab2.dir
+/home/nick-h/CLionProjects/OOP/cmake-build-debug/Lab2/CMakeFiles/edit_cache.dir
+/home/nick-h/CLionProjects/OOP/cmake-build-debug/Lab2/CMakeFiles/rebuild_cache.dir
