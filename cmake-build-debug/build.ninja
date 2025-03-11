@@ -166,6 +166,18 @@ build Lab2/CMakeFiles/Lab2.dir/main.cpp.o: CXX_COMPILER__Lab2_unscanned_Debug /h
   OBJECT_DIR = Lab2/CMakeFiles/Lab2.dir
   OBJECT_FILE_DIR = Lab2/CMakeFiles/Lab2.dir
 
+build Lab2/CMakeFiles/Lab2.dir/Book.cpp.o: CXX_COMPILER__Lab2_unscanned_Debug /home/nick-h/CLionProjects/OOP/Lab2/Book.cpp || cmake_object_order_depends_target_Lab2
+  DEP_FILE = Lab2/CMakeFiles/Lab2.dir/Book.cpp.o.d
+  FLAGS = -g -std=gnu++17 -fdiagnostics-color=always
+  OBJECT_DIR = Lab2/CMakeFiles/Lab2.dir
+  OBJECT_FILE_DIR = Lab2/CMakeFiles/Lab2.dir
+
+build Lab2/CMakeFiles/Lab2.dir/Library.cpp.o: CXX_COMPILER__Lab2_unscanned_Debug /home/nick-h/CLionProjects/OOP/Lab2/Library.cpp || cmake_object_order_depends_target_Lab2
+  DEP_FILE = Lab2/CMakeFiles/Lab2.dir/Library.cpp.o.d
+  FLAGS = -g -std=gnu++17 -fdiagnostics-color=always
+  OBJECT_DIR = Lab2/CMakeFiles/Lab2.dir
+  OBJECT_FILE_DIR = Lab2/CMakeFiles/Lab2.dir
+
 
 # =============================================================================
 # Link build statements for EXECUTABLE target Lab2
@@ -174,7 +186,7 @@ build Lab2/CMakeFiles/Lab2.dir/main.cpp.o: CXX_COMPILER__Lab2_unscanned_Debug /h
 #############################################
 # Link the executable Lab2/Lab2
 
-build Lab2/Lab2: CXX_EXECUTABLE_LINKER__Lab2_Debug Lab2/CMakeFiles/Lab2.dir/main.cpp.o
+build Lab2/Lab2: CXX_EXECUTABLE_LINKER__Lab2_Debug Lab2/CMakeFiles/Lab2.dir/main.cpp.o Lab2/CMakeFiles/Lab2.dir/Book.cpp.o Lab2/CMakeFiles/Lab2.dir/Library.cpp.o
   FLAGS = -g
   OBJECT_DIR = Lab2/CMakeFiles/Lab2.dir
   POST_BUILD = :
