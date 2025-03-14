@@ -2,7 +2,7 @@
 
 This repository contains proposed solutions for Object-Oriented Programming (OOP) assignments from **Gdańsk University of Technology**.
 
-##📁 Repository Structure
+## 📁 Repository Structure
 The repository is organized into four directories, each corresponding to a different laboratory assignment. Each folder contains:
 
 1. Source code that implements the required OOP concepts.
