@@ -8,7 +8,6 @@ The repository is organized into four directories, each corresponding to a diffe
 1. Source code that implements the required OOP concepts.
 2. The laboratory requirements PDF file.
 3. The solutions follow best practices in C++/Java and adhere to the standards expected for each lab assignment.
-4. 
 ```
 OOP-assignments/
 ├── Lab1 # Laboratory #1 files
