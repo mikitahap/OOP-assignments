@@ -1,0 +1,19 @@
+package pl.edu.pg.eti.ksg.po.lab1.transformacje;
+
+public class BrakTransformacjiOdwrotnejException extends Exception {
+    public BrakTransformacjiOdwrotnejException() {
+        super();
+    }
+
+    public BrakTransformacjiOdwrotnejException(String message) {
+        super(message);
+    }
+
+    public BrakTransformacjiOdwrotnejException(Throwable cause) {
+        super(cause);
+    }
+
+    public BrakTransformacjiOdwrotnejException(String message, Throwable cause) {
+        super(message, cause);
+    }
+}
