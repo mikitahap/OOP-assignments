@@ -1,7 +1,20 @@
-cmake-build-debug/
+# CLion
+.idea/
+*.iml
+cmake-build-*/
 CMakeCache.txt
 CMakeFiles/
-*.cbp
-*.o
-*.out
-*.txt
+CMakeScripts/
+Makefile
+cmake_install.cmake
+CTestTestfile.cmake
+
+# IntelliJ IDEA
+.idea/
+*.iml
+*.iws
+*.ipr
+
+# System files
+.DS_Store
+Thumbs.db
