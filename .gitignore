@@ -1,7 +1,25 @@
-cmake-build-debug/
+# CMake
 CMakeCache.txt
 CMakeFiles/
-*.cbp
-*.o
-*.out
-*.txt
+CMakeScripts/
+Makefile
+cmake_install.cmake
+CTestTestfile.cmake
+
+# Build
+build/
+Debug/
+Release/
+cmake-build-*/
+out/
+
+# Other
+*.swp
+*.swo
+*.bak
+*.tmp
+*.log
+*.idea/
+.vscode/
+.DS_Store
+Thumbs.db
