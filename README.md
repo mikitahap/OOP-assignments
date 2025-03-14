@@ -15,7 +15,7 @@ Below are links to the original assignment descriptions:
 1. [Lab 1 – Description](Lab1/OOP_lab1.pdf)
 2. [Lab 2 – Description](Lab2/OOP_lab2.pdf)
 3. [Lab 3 – Description](Lab3/OOP_lab3.pdf)
-4. [Lab 4 – Description](Lab4/OOP_lab4.pdf)
+4. [Lab 4 – Description](Lab4/OOP_Lab4.pdf)
 
 ## 🛠 Technologies Used
 - **Language:** C++/Java
