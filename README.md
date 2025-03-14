@@ -3,16 +3,8 @@
 This repository contains proposed solutions for Object-Oriented Programming (OOP) assignments from **Gdańsk University of Technology**.
 
 ## 📁 Structure
-The repository is organized into four directories, each corresponding to a different lab assignment:
-
-OOP-assignments/
-├── Lab1/
-├── Lab2/
-├── Lab3/
-├── .gitignore
-├── README.md
-
-Each folder contains the source code implementing the required OOP concepts and task PDF file, following best practices in **C++/Java**.
+The repository is organized into four directories, each corresponding to a different lab assignment,
+Each folder contains the source code implementing the required OOP concepts and laboratory requierements PDF file, following best practices in **C++/Java**.
 
 ## 📜 Assignments
 Below are links to the original assignment descriptions:
