@@ -25,6 +25,7 @@ Below are links to the original assignment descriptions:
 ## 📌 Notes
 - The solutions aim to demonstrate core **OOP principles** such as **encapsulation, inheritance, polymorphism, and abstraction**.
 - If you find any issues or have suggestions, feel free to **open an issue** or submit a **pull request**.
+- Remember that these solutions are just **my proposed implementations** and one of many possible correct approaches to solving the tasks—there are always other valid ways to achieve the same results.
 
 ## 🤝 Contributions
 If you want to improve the solutions or add alternative implementations, feel free to contribute!
